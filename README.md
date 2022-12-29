@@ -6,9 +6,14 @@ Python for Data Science : This introduction to Python will kickstart your learni
 # Chapter 1 Introduction to Python.
 
 Introduction to Python & Google Colaboratory
+
 Integers, Floats and Booleans
+
 Introduction to Strings
+
 Introduction to Lists
+
 Tuples, Sets and Dictionaries
+
 Statements, Indentation and Conditionals
 
